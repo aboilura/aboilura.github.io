@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aboilura.github.io/sitemap.html.gz
+Sitemap: https://aboilura.github.io/app/sitemap.html.gz
+Sitemap: https://aboilura.github.io/assets/sitemap.html.gz
+Sitemap: https://aboilura.github.io/css/sitemap.html.gz
+Sitemap: https://aboilura.github.io/includes/sitemap.html.gz
+Sitemap: https://aboilura.github.io/item/sitemap.html.gz
+Sitemap: https://aboilura.github.io/src/sitemap.html.gz
